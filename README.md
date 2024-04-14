@@ -1,4 +1,10 @@
-# Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
+# Web Mining and Applied NLP (44-620)
+
+## Web Scraping and NLP with Requests, BeautifulSoup, and spaCy
+
+### Student Name: Inga Miller
+### GitHub Repository: https://github.com/s566319/web-scrapping
+
 
 Complete the tasks in the Python Notebook in this repository.
 Make sure to add and push the pkl or text file of your scraped html (this is specified in the notebook)
@@ -13,3 +19,9 @@ Make sure to add and push the pkl or text file of your scraped html (this is spe
 * (Question 6) Histogram shown with appropriate labelling: 1 pt
 * (Question 7) Histogram shown with appropriate labelling: 1 pt
 * (Question 8) Thoughtful answer provided: 1 pt
+
+## Requirements
+# Markdown introduction with name and clickable link is required.
+# Markdown Section Headings for each Question are required. 
+# Execute your code before exporting HTML and pushing notebooks. (See FAQ for help.)  
+# Unexecuted code is not eligible for credit.
